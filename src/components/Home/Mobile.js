@@ -8,7 +8,7 @@ function Mobile() {
     <div className="left">
         <h1 className="title">Knolsort</h1>
         <img className="mobile" src={Logo} />
-        <Link to="Home" className="btn">Home</Link>
+        <Link to="/" className="btn">Home</Link>
         <Link to="About" className="btn1">About</Link>
         <Link to="Contact" className="btn2">Contact</Link>
         <Link to="question" className="ques">What is Knolsort?</Link>
